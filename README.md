@@ -2,6 +2,7 @@
 
 ## Resumen
 Este repositorio deberia de servir como una guia de estudio donde se resume la parte TEÓRICA del contenido de las diapositivas
+</br>
 Solo deben de dar click en alguno y ya pueden previsualizarlo (si lo hacen desde el mismo Github)
 ---
 
