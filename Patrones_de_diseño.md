@@ -1,7 +1,4 @@
-# Guía de estudio: Arquitectura de Aplicaciones de Vanguardia - II Parcial
-Esta guía pretender cubrir de forma más compacta todos los contenidos vistos en las 200+ diapositivas en varias presentaciones juntas en total de forma que se asemeje a un examen teórico como fue el primer parcial. Se enumeran los temas acorde a las diapositivas, formulando las preguntas y respuestas teóricas.
-
-## A. Patrones de diseño
+# Guía de estudio:  Patrones de diseño
 
 1. **¿Qué son los patrones de diseño, que representan y que ofrecen?**
 
