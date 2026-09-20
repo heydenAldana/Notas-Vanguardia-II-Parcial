@@ -10,7 +10,7 @@
 
 | Patrón de arquitectura | Qué es | Considerar... |
 |:-----------------------|:-------|:-------------:|
-| Aruitectura Spaguetti | En realidad no es una arquitectura, y se vió en los inicios de las aplicaciones web. | Algunos problemas pueden incluir: Mantenibilidad difícil, dificil de testear, escalabilidad, dificil de entender el código y pueden haber bugs ocultos |
+| Arquitectura Spaguetti | En realidad no es una arquitectura, y se vió en los inicios de las aplicaciones web. | Algunos problemas pueden incluir: Mantenibilidad difícil, dificil de testear, escalabilidad, dificil de entender el código y pueden haber bugs ocultos |
 | Arquitectura por Capas | Creada para arreglar el problema de la arquitecura spaguetti. Divide la lógica del programa en capas (Presentación, Lógica de negocio, Acceso a Datos...) | |
 | Arquitectura Hexagonal | Aisla las entrads y salidas de la aplicación de la lógica interna de la aplicación. Esto ayuda a que se generen partes independientes que no dependen de los cambios externos, permitiendo ser modificados | |
 | Arquitectura MVC | Divide la aplicación en tres partes: </br><ol><li>**Modelo**: Maneja los datos el acceso a la base de datos y la lógica de negocio</li><li>**Vista**: Muestra la información al usuario y recibe la entrada, sin depender del modelo</li><li>**Controlador**: Recibe el input del usuario, actualiza el modelo y decide que vistas mostrar</li></ol>| |
