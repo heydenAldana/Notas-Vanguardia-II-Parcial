@@ -31,6 +31,7 @@
   </br>
 _Nota: la tabla fue creada con ayuda de la IA para competarla con la infomración a partir de las diapositivas_
 </br>
+
 | Patrón | Problema | Aplicabilidad | Ventajas | Desventajas |
 |:---|:---|:---|:---|:---|
 | **Adapter** | Colaboración e integración entre objetos o bibliotecas externas con interfaces incompatibles (ej. datos en XML vs. JSON). | - Cuando se quiere usar una clase existente cuya interfaz no sea compatible con el resto del código.<br>- Cuando se quieran reutilizar subclases existentes que carecen de funcionalidad común no añadible a la superclase. | - **Responsabilidad única:** Separa la interfaz o conversión de datos de la lógica de negocio primaria.<br>- **Abierto/Cerrado:** Permite introducir nuevos adaptadores sin romper el código cliente existente. | - Aumenta la complejidad general del código al introducir nuevas clases e interfaces.<br>- A veces resulta más sencillo modificar la clase de servicio original. |
